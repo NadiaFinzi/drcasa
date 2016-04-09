@@ -1,6 +1,6 @@
 DrCasa
 
-
+Enunciado
 Persona
 	Si temperatura >= 45 o cant de celulas < 1.000.000, queda en coma
 Enfermedades
